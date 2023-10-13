@@ -15,4 +15,4 @@
 ### Hosted on NETLIFY
 
 ### Home Page
-![Home Page](https://drive.google.com/file/d/1OHAhqRrJd3E8zbCFnTh7ys6zXU0AQPUf/view?usp=sharing)
+![Home Page](https://drive.google.com/file/d/1OHAhqRrJd3E8zbCFnTh7ys6zXU0AQPUf/view?usp=drive_link)
