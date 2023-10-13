@@ -15,4 +15,5 @@
 ### Hosted on NETLIFY
 
 ### Home Page
-![Home Page](https://drive.google.com/file/d/1OHAhqRrJd3E8zbCFnTh7ys6zXU0AQPUf/view?usp=drive_link)
+
+![screenfinal](https://github.com/Mi-kio/Assignment-SakshiJain/assets/93917702/f6f514ba-e5fc-48c8-99de-0f678924276d)
