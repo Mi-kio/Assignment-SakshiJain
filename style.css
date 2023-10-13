@@ -1,123 +1,101 @@
-body{
-    background-color: rgba(47,24,147,255);
-    font-family: 'Gabarito', sans-serif;
-
+body {
+  background-color: rgba(47, 24, 147, 255);
+  font-family: "Gabarito", sans-serif;
 }
 
-
-a{
-    text-decoration: none;
-    color: aliceblue;
+a {
+  text-decoration: none;
+  color: aliceblue;
 }
 
-.page-margin{
-margin-top:50px;
-margin-left:150px;
-margin-right:150px;
-margin-bottom: 75px;
+.page-margin {
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 50px;
 }
 
-button{
-    border-radius: 20px;
-    border-color:transparent;
-    padding:10px 15px 10px 15px;
-    font-family: 'Gabarito', sans-serif;
-
+button {
+  border-radius: 23px;
+  border-color: transparent;
+  padding: 10px 15px 10px 15px;
+  font-family: "Gabarito", sans-serif;
 }
 
-.menu{
-  
-    border-color: transparent;
-    border-width: 2px;
-    border-style: solid;
+.menu {
+  border-color: transparent;
+  border-width: 2px;
+  border-style: solid;
 }
 
-.menu-subItems{
-    padding:0px 20px 0px 5px;
-    font-size:18px;
-    
+.menu-subItems {
+  padding: 0px 20px 0px 5px;
+  font-size: 18px;
 }
 
-.box{
-    margin-top:40px;
+.box {
+  margin-top: 40px;
 }
-
-
 
 .box1 {
-    display: inline-block;
-    margin-right: 40px;
-    color:aliceblue;
-    padding:10px;
-    border-width: 2px;
-    border-style: solid;
-    border-color: transparent;
-    width: 500px;
+  display: inline-block;
+  margin-right: 40px;
+  color: aliceblue;
+  padding: 10px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: transparent;
+  width: 500px;
 }
 
-.box1 h1{
-    font-size:65px;
+.box1 h1 {
+  font-size: 65px;
 }
 
-.box1 p{
-    font-size:medium;
+.box1 p {
+  font-size: medium;
 }
 
-.box2 h1{
-    font-size:35px;
-    text-align: center;
+.box2 h1 {
+  font-size: 35px;
+  text-align: center;
 }
 
-
-.box2{
-    display: inline-block;
-    margin-left: 40px;
-    padding:15px 30px 60px 30px;
-    /* height:auto;
-    width:50px; */
-    border-width: 2px;
-    border-style: solid;
-    border-color: transparent;
-    align-items: center !important;
-    border-radius: 12px;
-    width: 500px;
-    background-color: white;
-    font-size: medium;
-    color:#b1b1bd;
+.box2 {
+  display: inline-block;
+  margin-left: 40px;
+  padding: 15px 30px 60px 30px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: transparent;
+  align-items: center !important;
+  border-radius: 12px;
+  width: 500px;
+  background-color: white;
+  font-size: medium;
+  color: #b1b1bd;
 }
-
-/* .box2 button{
-    padding: 10px;
-    margin:3px 60px 3px 90px;
-} */
-
-
 
 .input-box {
-    padding: 10px 15px;
-    border-radius: 20px;
-    margin:3px 70px 3px 120px;
-    width:240px;
-    border-width: 1px;
-    border-color: #b1b1bd !important;
-    font-family: 'Gabarito', sans-serif;
-
+  padding: 10px 15px;
+  border-radius: 20px;
+  margin: 3px 70px 3px 120px;
+  width: 240px;
+  border-width: 1px;
+  border-color: #b1b1bd !important;
+  font-family: "Gabarito", sans-serif;
 }
 
-.box2 button{
-    padding: 10px;
-    /* t r b l */
-    margin:3px 70px 3px 120px;
-    border-radius: 20px;
-    width:260px;
-    color:aliceblue;
-
+.box2 button {
+  padding: 10px;
+  /* t r b l */
+  margin: 3px 70px 3px 120px;
+  border-radius: 20px;
+  width: 260px;
+  color: aliceblue;
 }
 
-input[type="checkbox"]{
-    background-color: green; /* Change the background color when checked */
-    border-color: indigo; /* Change the border color when checked */
+input[type="checkbox"] {
+  background-color: green; /* Change the background color when checked */
+  border-color: indigo; /* Change the border color when checked */
 }
-
-
-
